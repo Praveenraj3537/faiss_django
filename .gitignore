@@ -1,2 +1,2 @@
 .dist/
-.faissProject/faiss/__pycache__
+../faissProject/faiss/__pycache__/
